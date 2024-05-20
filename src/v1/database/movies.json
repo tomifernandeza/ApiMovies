@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "titulo": "Inception",
+      "director": "Christopher Nolan",
+      "genero": "Science Fiction",
+      "año": 2010
+    },
+    {
+      "id": "2",
+      "titulo": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "genero": "Drama",
+      "año": 1994
+    },
+    {
+      "id": "3",
+      "titulo": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "genero": "Crime",
+      "año": 1972
+    },
+    {
+      "id": "6e1549e4-10fe-43d1-babc-e79e090b07f3",
+      "titulo": "Interstellar",
+      "director": "Christopher Nolan",
+      "genero": "Ciencia Ficcion",
+      "año": 2014
+    }
+  ]
+}
